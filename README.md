@@ -38,7 +38,7 @@
 Emails:
  developer.mishakorzhik@gmail.com
 
-Developers:
+Developers: 
  mishakorzhik
 ```
 
