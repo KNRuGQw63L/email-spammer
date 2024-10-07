@@ -43,7 +43,7 @@ Developers:
 ```
 
 ## Bug?
-If the tool fails, follow these steps:
+If the tool fails, follow these steps: 
 
 1. Take a screenshot and see the error 
    in detail
