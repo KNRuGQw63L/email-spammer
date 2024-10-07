@@ -57,7 +57,7 @@ If the tool fails, follow these steps:
 </details>
 
 -------
-
+ 
 **Repository Views** ![Views](https://profile-counter.glitch.me/EmailSpammer/count.svg)
 
 ## Screenshot
