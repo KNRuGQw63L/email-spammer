@@ -47,7 +47,7 @@ If the tool fails, follow these steps:
 
 1. Take a screenshot and see the error 
    in detail
-
+ 
 2. Contact me through the following 
    email: developer.mishakorzhik@gmail.com
 
