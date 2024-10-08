@@ -11,7 +11,7 @@
 - [x] More supported services 
 - [x] Functionality  
 
-----  
+----   
 # Guide on how to use these tool
 
 1. Install Python from 
