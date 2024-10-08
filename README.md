@@ -53,7 +53,7 @@ If the tool fails, follow these steps:
  
 3. Submit the screenshot and explain 
    your problem with that error 
-
+ 
 </details>
 
 -------
