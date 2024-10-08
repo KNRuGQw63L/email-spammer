@@ -37,7 +37,7 @@
 ```bash
 Emails:
  developer.mishakorzhik@gmail.com 
-
+ 
 Developers:  
  mishakorzhik
 ```  
