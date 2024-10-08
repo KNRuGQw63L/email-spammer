@@ -28,7 +28,7 @@
   
 #### If there are problems then look down there will be if failed to download.
  
-<details id="missing-code-coverage">
+<details id="missing-code-coverage"> 
   <summary>Need Help</summary>
 
 #### Do you need help? Write me on: developer.mishakorzhik@gmail.com 
