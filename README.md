@@ -1,7 +1,7 @@
 > I am not responsible for your actions. By downloading software from this repository, you agree to follow the law.
   
 --- 
-
+ 
 #### Features
 - [x] Fast spam
 - [x] No need to drive your mail
