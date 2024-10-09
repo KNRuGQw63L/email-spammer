@@ -35,7 +35,7 @@
 #### And I will consider your letter and problem!
  
 ```bash
-Emails: 
+Emails:  
  developer.mishakorzhik@gmail.com 
  
 Developers:  
