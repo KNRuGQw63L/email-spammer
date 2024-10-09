@@ -7,7 +7,7 @@
 - [x] No need to drive your mail
 - [x] Supported on python3
 - [x] Supported other systems   
-- [x] Quickly and clearly 
+- [x] Quickly and clearly  
 - [x] More supported services 
 - [x] Functionality   
  
