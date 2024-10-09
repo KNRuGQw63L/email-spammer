@@ -31,7 +31,7 @@
 <details id="missing-code-coverage"> 
   <summary>Need Help</summary>
   
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com 
+#### Do you need help? Write me on: developer.mishakorzhik@gmail.com  
 #### And I will consider your letter and problem!
  
 ```bash
